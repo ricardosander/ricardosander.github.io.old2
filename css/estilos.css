@@ -32,7 +32,7 @@ h2, .fixclear {
 }
 
 .principal-site .container {
-	width: 85%;
+	width: 80%;
 	margin-right: 2%;
 	margin-left: 2%;
 	padding: 1% 0;
@@ -54,7 +54,7 @@ h2, .fixclear {
 	color: #F2FFFC;
 	padding: 1%;
 	text-align: center;
-	width: 15%;
+	width: 20%;
 	box-sizing: border-box;
 }
 
