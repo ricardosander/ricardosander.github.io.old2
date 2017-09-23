@@ -1,5 +1,5 @@
 body {
-	font-family: "Crimson Text", serif;
+	font-family: "Open Sans", serif;
 	background-color: #F2FFFC;
 	line-height: 1.5;
 }
@@ -22,6 +22,31 @@ h2, .fixclear {
 	color: #FFF;
 	padding: 25px;
 	border-bottom: 10px solid black;
+}
+
+.principal-site .intro {
+	text-align: center;
+}
+
+.experiencia-titulo {
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+.experiencia-empresa {
+	font-weight: bold;
+	margin-bottom: -20px;
+}
+
+.experiencia-periodo {
+	font-size: 14px;
+	font-style: : italic;
+}
+
+.experiencia {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 15px;
+
 }
 
 .principal-site a {
