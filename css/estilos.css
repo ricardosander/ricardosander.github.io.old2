@@ -30,7 +30,7 @@ h2, .fixclear {
 
 .experiencia-titulo {
 	text-align: center;
-	margin-bottom: 15px;
+	margin-bottom: 30px;
 }
 
 .experiencia-empresa {
@@ -40,7 +40,7 @@ h2, .fixclear {
 
 .experiencia-periodo {
 	font-size: 14px;
-	font-style: : italic;
+	font-style: italic;
 }
 
 .experiencia {
@@ -48,6 +48,15 @@ h2, .fixclear {
     padding-bottom: 15px;
 
 }
+
+.experiencia li {
+	margin-bottom: 10px;
+}
+
+.experiencia ul li {
+	margin-left: 10px;
+}
+
 
 .principal-site a {
 	color: #851944;
